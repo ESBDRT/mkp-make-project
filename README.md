@@ -13,13 +13,11 @@ MKP is available to use on Linux and MacOS.
 
 ### Linux
 
-git
-make (via build-essential)
-gcc (to actually compile the C projects)
+Build essentials (git, make, gcc)
 
 ### MacOS
 
-Xcode Command Line Tools (covers git, make, and gcc all in one)
+Xcode Command Line Tools (git, make, gcc)
 
 ## Installation
 
