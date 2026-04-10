@@ -36,6 +36,7 @@ mkp <option> <project-name>
 The option parameter is mandatory, refer to the option table
 
 To setup the remote repository use : 
+*THE COMMAND MUST BE CALLED INSIDE YOUR PROJECT FOLDER*
 
 ```
 mkp setrem <remote_repo_url>
